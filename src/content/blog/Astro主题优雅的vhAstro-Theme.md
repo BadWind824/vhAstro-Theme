@@ -61,3 +61,5 @@ top: true
 - [x] 广泛的现代框架兼容性
 - [x] 高效的性能优化
 - [x] 优秀的开发体验
+
+::vhLivePhoto{photo="https://i.uik.cc/view.php/8f8e0231a9349b19bdcfe1f25fa33ada.png" video="https://i.uik.cc/view.php/ec578961193075680f9d2479d38a27b6.mp4" type="y"}
