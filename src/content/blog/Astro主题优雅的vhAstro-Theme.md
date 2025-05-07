@@ -62,4 +62,4 @@ top: true
 - [x] 高效的性能优化
 - [x] 优秀的开发体验
 
-::vhLivePhoto{photo="https://i.uik.cc/view.php/8f8e0231a9349b19bdcfe1f25fa33ada.webp" video="https://i.uik.cc/view.php/ec578961193075680f9d2479d38a27b6.mp4" type="y"}
+::vhLivePhoto{photo="https://i.uik.cc/view.php/ab224a97eb7ba38c3ccc4b67cad8a186.webp" video="https://i.uik.cc/view.php/ec578961193075680f9d2479d38a27b6.mp4" type="y"}
