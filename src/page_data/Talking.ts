@@ -9,8 +9,7 @@ export default {
       "tags": [
         "LivePhoto",
       ],
-      "content": "🥰::vhLivePhoto{photo="https://astro.badwind824.top/assets/livephoto/1.webp" video="https://astro.badwind824.top/assets/livephoto/1.mp4" type="y"}
-::vhLivePhoto{photo="https://astro.badwind824.top/assets/livephoto/2.webp" video="https://astro.badwind824.top/assets/livephoto/2.mp4" type="y"} "
+      "content": "🥰::vhLivePhoto{photo=\"https://astro.badwind824.top/assets/livephoto/1.webp\" video=\"https://astro.badwind824.top/assets/livephoto/1.mp4\"}"
     },
     {
       "date": "2025-05-07 11:30:16",
