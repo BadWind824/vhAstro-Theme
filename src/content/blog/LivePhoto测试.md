@@ -1,7 +1,7 @@
 ---
 title: "LivePhoto测试"
-categories: 
-tags: [""]
+categories: 测试
+tags: ["测试"]
 id: "livephototest"
 date: 2025-05-07 013:23:18
 cover: "https://img.badwind824.top/v2/5bwzf6p.jpeg"
