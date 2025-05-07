@@ -1,5 +1,5 @@
 ---
-title: "Astro主题-优雅的vhAstro-Theme【使用文档】"
+title: "Astro主题-优雅的vhAstro-Theme"
 categories: Code
 tags: ["Astro", "主题", "博客", "vhAstro", "vhAstro-Theme"]
 id: "astro-vhastro-theme"

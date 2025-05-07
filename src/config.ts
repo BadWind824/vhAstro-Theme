@@ -8,9 +8,9 @@ export default {
   // 网站描述
   Description: '一只南风的博客，记录生活中的点滴，分享学习中的收获.',
   // 网站作者
-  Author: '.*BadWind824*',
+  Author: '.𝐵𝑎𝑑𝑊𝑖𝑛𝑑824',
   // 作者头像
-  Avatar: 'https://q1.qlogo.cn/g?b=qq&nk=1655466387&s=640',
+  Avatar: 'https://q1.qlogo.cn/g?b=qq&nk=2821682790&s=640',
   // 网站座右铭
   Motto: '运气是计划之外的东西.',
   // Cover 网站缩略图
@@ -73,9 +73,9 @@ export default {
     // 是否展示个人网站
     WebSitesShow: true,
     // 是否展示分类
-    CategoriesShow: false,
+    CategoriesShow: true,
     // 是否展示标签
-    TagsShow: false,
+    TagsShow: true,
     // 是否展示推荐文章
     recommendArticleShow: false
   },
