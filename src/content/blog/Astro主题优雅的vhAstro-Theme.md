@@ -1,7 +1,7 @@
 ---
 title: "Astro主题-优雅的vhAstro-Theme"
-categories: Code
-tags: ["Astro", "主题", "博客", "vhAstro", "vhAstro-Theme"]
+categories: 其他
+tags: ["主题博客"]
 id: "astro-vhastro-theme"
 date: 2025-05-07 09:16:18
 cover: "https://pic1.imgdb.cn/item/67b2f91ed0e0a243d400335e.png"
