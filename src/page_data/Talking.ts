@@ -5,6 +5,14 @@ export default {
   // 注意：图片请用 vh-img-flex 类包裹
   data: [
 
+  {
+      "date": "2025-05-12 8:17:16",
+      "tags": [
+        "自拍",
+      ],
+      "content": "::vhLivePhoto{photo="https://ava.badwind824.top/assets/livephoto/1.webp" video="https://ava.badwind824.top/assets/livephoto/1.mp4" type="y"}"
+    },
+
     {
       "date": "2025-05-07 11:30:16",
       "tags": [
@@ -22,3 +30,7 @@ export default {
     }
   ]
 }
+
+
+
+
