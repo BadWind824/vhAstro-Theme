@@ -5,13 +5,7 @@ export default {
   // 注意：图片请用 vh-img-flex 类包裹
   data: [
 
-  {
-      "date": "2025-05-12 8:17:16",
-      "tags": [
-        "自拍",
-      ],
-      "content":  "<source src="https://feel.bltang.cc/file/resources/GSuxJ54eqQtpzgobeVrrN7/IMG_5458.jpeg" type="video/mp4">""
-    },
+
 
     {
       "date": "2025-05-07 11:30:16",
