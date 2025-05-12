@@ -10,7 +10,7 @@ export default {
       "tags": [
         "自拍",
       ],
-      "content": "::vhLivePhoto{photo="https://ava.badwind824.top/assets/livephoto/1.webp" video="https://ava.badwind824.top/assets/livephoto/1.mp4" type="y"}"
+      "content":  "<source src="https://feel.bltang.cc/file/resources/GSuxJ54eqQtpzgobeVrrN7/IMG_5458.jpeg" type="video/mp4">""
     },
 
     {
